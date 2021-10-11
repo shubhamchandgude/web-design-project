@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.changecolor:hover{
+	color: blue;
+}
+
+.colorchange:hover{
+	color: red;
+}
